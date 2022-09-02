@@ -8,7 +8,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 |![Persona-1](img/imgPersonas/persona1.png) |
 |------|
-|**Nome:** `Felipe Gomes`A| 
+|**Nome:** `Felipe Gomes`| 
 |**Idade:** `32`|  
 |**Ocupação:** `Líder de Vendas em uma pequena empresa que aluga notebooks e realiza manutenções ` |  
 |**Aplicativos:** `Instagram` `TikTok` `Facebook` `OLX` |  
